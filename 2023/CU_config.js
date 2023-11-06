@@ -1,7 +1,7 @@
 var config_data = `
 {
-  "title": "Eagle Eye 2023",
-  "page_title": "EAGLE EYE<div>2023</div>",
+  "title": "Golden Horn Off-Season 2023",
+  "page_title": "Golden Horn<div>2023</div>",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
