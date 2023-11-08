@@ -52,18 +52,18 @@ html, body{
 
 #autonHeader, #endgameHeader, #teleopHeader1, #teleopHeader2{
     color: white;
-    border-color: black;
+    border-color: rgb(251, 211, 118);
     border-width: 4px;
 }
 
 #postmatchHeader{
     border-width: 4px;
-    border-color: black;
+    border-color: rgb(251, 211, 118);
 }
 
 #prematchHeader1, #prematchHeader2{
     color: white;
-    border-color: black;
+    border-color: rgb(251, 211, 118);
     border-width: 4px;
 }
 
